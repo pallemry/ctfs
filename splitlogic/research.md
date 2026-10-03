@@ -1,4 +1,4 @@
-I found that the email in the proxy is vulnerable to SQLi by inserting a `'` and then I got a 500 error from the server:
+I found that the email in the `/login.php` page is vulnerable to SQLi by inserting a `'` and observing a 500 error from the server:
 ```
 email=a'@a.com&password=a
 ```
