@@ -16,7 +16,7 @@ class Requester:
 
     def make_request(self, payload: str) -> requests.Response:
         request = self.build_request(payload)
-        response = requests.request(**request, headers=self.headers, proxies=self.proxies, verify=False)
+        response = requests.request(**request, headers=self.headers, proxies=self.proxies, allow_redirects=False, verify=False)
         return response
 
     def request_and_evaluate(self, payload: str):
