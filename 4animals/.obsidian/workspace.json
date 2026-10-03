@@ -1,0 +1,199 @@
+{
+  "main": {
+    "id": "ef386ebda35bed51",
+    "type": "split",
+    "children": [
+      {
+        "id": "abaaf8e3eddd9283",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2e9e5d4e9d38b386",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "research..md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "research."
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "909778866d0ce7f4",
+    "type": "split",
+    "children": [
+      {
+        "id": "741885393af98fcd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7f24aa3ed8613658",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "c75f043d47ba6c4a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "cf4b7df5ea4380cd",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "583cb8d780832889",
+    "type": "split",
+    "children": [
+      {
+        "id": "a0aa934633cc94fd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "188d1c4366d0fbad",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "research..md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for research."
+            }
+          },
+          {
+            "id": "3c61c88ba0b98923",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "research..md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from research."
+            }
+          },
+          {
+            "id": "8242c97edc9b740d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "4bef095e6b9fdfe4",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "27723443f1f88669",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "research..md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of research."
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "2e9e5d4e9d38b386",
+  "lastOpenFiles": [
+    "exploit/logs/requester.log",
+    "requester.log",
+    "exploit/logs",
+    "exploit/main.py",
+    "exploit",
+    "db.sqlite-journal",
+    "db.sqlite",
+    "Pasted image 20260919143149.png",
+    "Pasted image 20260919143130.png",
+    "research..md"
+  ]
+}

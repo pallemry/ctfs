@@ -1,0 +1,42 @@
+Mr. Adam Smith
+asmith@holycross.edu
+Mr. Alfred Johnson
+ajohnson@holycross.edu
+Mr. Corey Beelke
+cbeelke@holycross.edu
+Mr. Edward Anderson
+eanderson@holycross.edu
+Mr. Gordon Freeman
+gfreeman@holycross.edu
+Mr. Henry Mathison
+hmathison@holycross.edu
+Mr. Jason Broccardo
+jbroccardo@holycross.edu
+Mr. Jonathan Goodman
+jgoodman@holycross.edu
+Mr. Matthew Howard
+mhoward@holycross.edu
+Mr. Nathan Engel
+nengel@holycross.edu
+Mr. Steven Florence
+sflorence@holycross.edu
+Mrs. Ann Feldman
+afeldman@holycross.edu
+Mrs. Emily Reeves
+ereeves@holycross.edu
+Mrs. Jill Curtis
+jcurtis@holycross.edu
+Mrs. Samantha Miller
+smiller@holycross.edu
+Ms. Janine Larson
+jlarson@holycross.edu
+Ms. Jennifer Smith
+jsmith@holycross.edu
+Ms. Katie Duket
+kduket@holycross.edu
+Ms. Kristen Forney
+kforney@holycross.edu
+Ms. Tristen Terell
+tterell@holycross.edu
+Sra. Nina Eagan
+neagan@holycross.edu

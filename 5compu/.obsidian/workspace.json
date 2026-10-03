@@ -1,0 +1,249 @@
+{
+  "main": {
+    "id": "d669762849ab5536",
+    "type": "split",
+    "children": [
+      {
+        "id": "cc6999b2c91867af",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d4efda668d8766aa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "level7.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "level7"
+            }
+          },
+          {
+            "id": "e9d1de45aa4a45b6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "level9/research.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "research"
+            }
+          },
+          {
+            "id": "dff6beb91099699d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "level6.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "level6"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "637c5532a2158cb9",
+    "type": "split",
+    "children": [
+      {
+        "id": "d6ec08ffc7dc0488",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "692d2301ec1dd141",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "bb7a9cc047834e1d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "b0d4bf7c1a0369bf",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "7ace2509a6a76855",
+    "type": "split",
+    "children": [
+      {
+        "id": "5f8a111f3a4085fb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "04ca714a91464766",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "research.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for research"
+            }
+          },
+          {
+            "id": "9b320abf9e5be44e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "research.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from research"
+            }
+          },
+          {
+            "id": "fdb7d1d12241d1ea",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "6fc4ca599bf5114d",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "1d48ce53b07a02c2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "research.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of research"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "e9d1de45aa4a45b6",
+  "lastOpenFiles": [
+    "level9/weight_map.py",
+    "forensic/3/forensic_3/flashdrive/UXo9C84.jpg",
+    "forensic/3/forensic_3/flashdrive/siggies.txt",
+    "forensic/3/forensic_3/flashdrive/shh.jpg",
+    "forensic/3/forensic_3/flashdrive/legrandelibrary.xlsx",
+    "forensic/3/forensic_3/flashdrive/Hack This Site!.url",
+    "forensic/3/forensic_3/flashdrive/DYNAMITE - Winamp 5.0RC8crk.mp3",
+    "forensic/3/forensic_3/flashdrive/bitcoin.pdf",
+    "forensic/3/forensic_3/flashdrive/49ZfDSNg.jpg",
+    "forensic/3/forensic_3/flashdrive",
+    "forensic/3/forensic_3",
+    "forensic/3/forensic_3.rar",
+    "forensic/3",
+    "forensic/2/ela.png",
+    "forensic/2/convert.sh",
+    "forensic/2/difference.png",
+    "forensic/2/recompressed.jpg",
+    "forensic/2/output_ela.png",
+    "forensic/1/a.jpg",
+    "forensic/2/selfie.jpg",
+    "forensic/a.jpg",
+    "level8/research.md",
+    "level9/research.md",
+    "research.md",
+    "Untitled.md",
+    "level8.md",
+    "level7.md",
+    "level6.md"
+  ]
+}

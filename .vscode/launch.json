@@ -1,0 +1,29 @@
+{
+  "configurations": [
+    {
+      "name": "Python Debugger: Current File",
+      "type": "debugpy",
+      "request": "launch",
+      "program": "${file}",
+      "console": "integratedTerminal"
+    },
+    {
+      "name": "Python Debugger: Module",
+      "type": "debugpy",
+      "request": "launch",
+      "module": "5compu.level9.weight_map"
+    },
+    {
+        "name": "Python Debugger: Current Module",
+        "type": "debugpy",
+        "request": "launch",
+        "program": "${workspaceFolder}/.vscode/run_current_module.py",
+        "args": [
+            "${relativeFile}"
+        ],
+        "cwd": "${workspaceFolder}",
+        "console": "integratedTerminal"
+    }
+    
+  ]
+}
